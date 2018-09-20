@@ -1,0 +1,11 @@
+/home/lukasz/Desktop/Accenture_Task/WorkWithLinqQuery/bin/Debug/netcoreapp2.1/WorkWithLinqQuery.deps.json
+/home/lukasz/Desktop/Accenture_Task/WorkWithLinqQuery/bin/Debug/netcoreapp2.1/WorkWithLinqQuery.runtimeconfig.json
+/home/lukasz/Desktop/Accenture_Task/WorkWithLinqQuery/bin/Debug/netcoreapp2.1/WorkWithLinqQuery.runtimeconfig.dev.json
+/home/lukasz/Desktop/Accenture_Task/WorkWithLinqQuery/bin/Debug/netcoreapp2.1/WorkWithLinqQuery.dll
+/home/lukasz/Desktop/Accenture_Task/WorkWithLinqQuery/bin/Debug/netcoreapp2.1/WorkWithLinqQuery.pdb
+/home/lukasz/Desktop/Accenture_Task/WorkWithLinqQuery/obj/Debug/netcoreapp2.1/WorkWithLinqQuery.csprojAssemblyReference.cache
+/home/lukasz/Desktop/Accenture_Task/WorkWithLinqQuery/obj/Debug/netcoreapp2.1/WorkWithLinqQuery.csproj.CoreCompileInputs.cache
+/home/lukasz/Desktop/Accenture_Task/WorkWithLinqQuery/obj/Debug/netcoreapp2.1/WorkWithLinqQuery.AssemblyInfoInputs.cache
+/home/lukasz/Desktop/Accenture_Task/WorkWithLinqQuery/obj/Debug/netcoreapp2.1/WorkWithLinqQuery.AssemblyInfo.cs
+/home/lukasz/Desktop/Accenture_Task/WorkWithLinqQuery/obj/Debug/netcoreapp2.1/WorkWithLinqQuery.dll
+/home/lukasz/Desktop/Accenture_Task/WorkWithLinqQuery/obj/Debug/netcoreapp2.1/WorkWithLinqQuery.pdb
