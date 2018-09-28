@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using WorkWithLinqQuery.DataAccess.Queries;
 using WorkWithLinqQuery.Models;
 
@@ -29,11 +30,9 @@ namespace WorkWithLinqQuery
             Console.ReadKey();
         }
 
-        private static void Query2()
-        {
-         //  var test = AllAuthors.Join()
-        }
+       
 
+        
         // wypisz zarezerwowane ksiązki
         private static void Query1()
         {
@@ -47,39 +46,12 @@ namespace WorkWithLinqQuery
                 {
                     listOfReservationBook.Add(book);
                 }
-
             });
 
             foreach (var book in listOfReservationBook)
             {
                 Console.WriteLine($"Nazwa: {book.Name}");
             }
-//            AllBooks.ForEach(p =>
-//            {
-//                var reservationItem = AllReservation.FirstOrDefault(d => d.BookNumber == p.Id);
-//
-//                if (reservationItem != null)
-//                {
-//                    var reservatedbook = AllBooks.FirstOrDefault(k => k.Id == reservationItem.Id);
-//
-//                    if (reservatedbook != null)
-//                    {
-//                        var author = AllAuthors.FirstOrDefault(a => a.Id == reservatedbook.Author);
-//
-//                        if (author != null)
-//                        {
-//                            listOfReservationBook.Add(new {Author = author.Name, Name = reservatedbook.Name});
-//                        }
-//                    }
-//                }
-//            });
-//
-//            Console.WriteLine("Lista zarezerwowanych książek");
-//
-//            foreach (var item in listOfReservationBook)
-//            {
-//                Console.WriteLine($"Author: {item.Author}, Name: {item.Name}");
-//            }
         }
 
         private static void ShowAllReservations(List<ReservationItem> allReservation)
